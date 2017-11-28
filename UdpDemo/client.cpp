@@ -16,7 +16,7 @@ int main(){
     int sendResult;
 
     if(WSAStartup(MAKEWORD(2,2),&WSAData)!=0){
-        printf("failed : ≥ı ºªØ ß∞‹!");
+        printf("Init failed!");
         return -1;
     } 
     sock_Client=socket(AF_INET,SOCK_DGRAM,IPPROTO_UDP);
