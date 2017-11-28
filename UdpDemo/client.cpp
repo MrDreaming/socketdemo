@@ -1,4 +1,4 @@
-// client.cpp (ÔËĞĞÔÚPC¶Ë 192.168.8.170)
+// client.cpp (Windows7 Computer : 192.168.8.170)
 #include<winsock2.h>
 #include<stdio.h>
 #include<string.h>
