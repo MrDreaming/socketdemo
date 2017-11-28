@@ -1,4 +1,4 @@
-// server.cpp (运行到开发板中 192.168.8.41)
+// server.cpp (wince : 192.168.8.41)
 #include "stdafx.h"
 #include "UdpServer.h"
 #include <windows.h>
